@@ -9,15 +9,13 @@
 
 
 ### Introduction 
-![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/compare.png "Modern React Technology")
-
 ReactJS is the new technology for web and mobile development introduced by Facebook. It is now a famous library that would allow for building a responsive and intuitive web interface with JavaScript.
+
+![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/compare.png "Modern React Technology")
 
 
 
 ### Advantages  
-![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/graph.png "Market percentage")
-
 - Virtual DOM in ReactJS makes user experience better and developer’s work faster.
 > The team behind React managed to increase the speed of updates by using virtual DOM. It updates even minimalistic changes applied by the user, but doesn’t affect other parts of interface.
 
@@ -29,6 +27,8 @@ ReactJS is the new technology for web and mobile development introduced by Faceb
 
 - An open-source Facebook library: constantly developing and open to the community
 > ReactJS was one of the first open source JavaScript-connected project. This means a lot of useful applications and additional tools from off-company developers.
+
+![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/graph.png "Market percentage")
 
 
 
@@ -63,7 +63,9 @@ create-react-app is a package that we can find in NPM and that will make our lif
 
 
 
-### Companies who use ReactJS
+### Companies using ReactJS  
+![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/companies.jpg "Famous companies")
+
 [Instagram](https://www.instagram.com/?hl=en), [Netflix](https://www.netflix.com/), [Airbnb](https://www.airbnb.com/), [Bloomberg](https://www.bloomberg.com/), [Facebook](www.facebook.com)
 
 
