@@ -4,14 +4,14 @@
 
 
 ## REACT JS-A JavaScript library for building user interfaces
-![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/react.png "Introductory image")
+![This is an image](img/react.png "Introductory image")
 
 
 
 ### Introduction 
 ReactJS is the new technology for web and mobile development introduced by Facebook. It is now a famous library that would allow for building a responsive and intuitive web interface with JavaScript.
 
-![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/compare.png "Modern React Technology")
+![This is an image](img/compare.png "Modern React Technology")
 
 
 
@@ -28,7 +28,7 @@ ReactJS is the new technology for web and mobile development introduced by Faceb
 - An open-source Facebook library: constantly developing and open to the community
 > ReactJS was one of the first open source JavaScript-connected project. This means a lot of useful applications and additional tools from off-company developers.
 
-![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/graph.png "Market percentage")
+![This is an image](img/graph.png "Market percentage")
 
 
 
@@ -64,7 +64,7 @@ create-react-app is a package that we can find in NPM and that will make our lif
 
 
 ### Companies using ReactJS  
-![This is an image](https://github.com/kmykoh97/The-Fundamental-Practice-Of-Software-Engineering-Innovation/blob/master/img/companies.jpg "Famous companies")
+![This is an image](img/companies.jpg "Famous companies")
 
 [Instagram](https://www.instagram.com/?hl=en), [Netflix](https://www.netflix.com/), [Airbnb](https://www.airbnb.com/), [Bloomberg](https://www.bloomberg.com/), [Facebook](www.facebook.com)
 
