@@ -59,7 +59,13 @@ However, like most technology stack, there must be some disadvantages drawing us
 - Less interactive than native apps
 - More issues from devices fragmentation
 
-insert here
+### Why Hybrid Apps?
+
+Hybrid mobile application development looks appealing to an organization’s bottom line. Why hire a developer for each platform when you can hire one developer and target all of them through HTML, CSS, and JavaScript? Well, the reality is a bit more complicated.
+
+Yes, it’s true that hybrid mobile application development enables developers to target more than one platform. However, each platform comes with a set of caveats when it comes to its web runtime or WebView. This is especially true with Android, which is inconsistent between OS versions.
+
+If you wish to target more than one platform, you have a number of choices. Clearly, the web offers a highly attractive solution for this requirement. Your target is the mobile browser. Hybrid lends itself well to this approach as well because of its reliance upon the WebView.
 
 ## Conclusion
 
