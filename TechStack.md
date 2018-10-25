@@ -24,13 +24,13 @@ A Web App, on the other hand, are basically Internet-enabled apps that are acces
 
   > A native app is totally compatible with the device’s hardware and native features, such as an accelerometer, camera and so on. Web apps, on the other hand, can access only a limited amount of a device’s native features.
 
-  While a native app works as a standalone entity, the problem is that the user has to keep downloading updates. A Web app, on the other hand, updates itself without the need for user intervention. However, it necessarily needs to be accessed via a mobile device’s browser.
+  > While a native app works as a standalone entity, the problem is that the user has to keep downloading updates. A Web app, on the other hand,updates itself without the need for user intervention. However, it necessarily needs to be accessed via a mobile device’s browser.
 
 - Efficiency
 
   > Native apps are more expensive to develop. However, they are faster and more efficient, as they work in tandem with the mobile device they are developed for. Also, they are assured of quality, as users can access them only via app stores online.
 
-  Web apps may result in higher costs of maintenance across multiple mobile platforms. Also, there is no specific regulatory authority to control quality standards of these apps. The Apple App Store, though, features a listing of Apple’s Web apps.
+  > Web apps may result in higher costs of maintenance across multiple mobile platforms. Also, there is no specific regulatory authority to control quality standards of these apps. The Apple App Store, though, features a listing of Apple’s Web apps.
 
 ![This is an image](img2/8.png "Introductory image")
 
