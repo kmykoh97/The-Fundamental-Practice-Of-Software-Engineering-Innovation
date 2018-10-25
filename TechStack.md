@@ -2,6 +2,8 @@
 
 _517030990022 MENG YIT KOH_
 
+![This is an image](img2/6.jpg "Introductory image")
+
 ## Native Apps vs. Web Apps: What is the Better Choice?
 
 ### Introduction
@@ -11,6 +13,8 @@ A Native App is an app developed essentially for one particular mobile device an
 A Web App, on the other hand, are basically Internet-enabled apps that are accessible via the mobile device’s Web browser. They need not be downloaded onto the user’s mobile device in order to be accessed. The Safari browser is a good example of a mobile Web app.
 
 ### Comparison
+
+![This is an image](img2/1.png "Introductory image")
 
 - User Interface
 
@@ -28,6 +32,8 @@ A Web App, on the other hand, are basically Internet-enabled apps that are acces
 
   Web apps may result in higher costs of maintenance across multiple mobile platforms. Also, there is no specific regulatory authority to control quality standards of these apps. The Apple App Store, though, features a listing of Apple’s Web apps.
 
+![This is an image](img2/8.png "Introductory image")
+
 ### Can we get the best of both world?
 
 As we can see, Native apps can provide optimized performance and take advantage of the latest technology, such as a GPS, compared to web apps or mobile cloud apps developed to be generic across multiple systems.
@@ -36,9 +42,13 @@ Due to the pros and cons offered by both different technology stack, we can't re
 
 ## Hybrid apps
 
+![This is an image](img2/5.jpg "Introductory image")
+
 ### What is Hybrid Apps?
 
 A hybrid app is a program that is built using HTML 5, CSS and JavaScript and wrapped in native container. The native container loads maximum information on the page as soon as the user navigates the application. There are plenty of native web frameworks available, which can help you build a hybrid app.
+
+![This is an image](img2/7.jpg "Introductory image")
 
 The main features of a typical hybrid app are:
 
@@ -61,6 +71,8 @@ However, like most technology stack, there must be some disadvantages drawing us
 
 ### Why Hybrid Apps?
 
+![This is an image](img2/2.png "Introductory image")
+
 Hybrid mobile application development looks appealing to an organization’s bottom line. Why hire a developer for each platform when you can hire one developer and target all of them through HTML, CSS, and JavaScript? Well, the reality is a bit more complicated.
 
 Yes, it’s true that hybrid mobile application development enables developers to target more than one platform. However, each platform comes with a set of caveats when it comes to its web runtime or WebView. This is especially true with Android, which is inconsistent between OS versions.
@@ -68,6 +80,8 @@ Yes, it’s true that hybrid mobile application development enables developers t
 If you wish to target more than one platform, you have a number of choices. Clearly, the web offers a highly attractive solution for this requirement. Your target is the mobile browser. Hybrid lends itself well to this approach as well because of its reliance upon the WebView.
 
 ## Conclusion
+
+![This is an image](img2/3.png "Introductory image")
 
 Native and Hybrid Applications have their own pros and cons as we have already discussed. The decision about the choice of app depends largely on your requirement.
 
